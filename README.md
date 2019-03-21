@@ -1,5 +1,5 @@
 # Mobile Test Project
-Convert the following design into live code app.
+You should see this challenge as an opportunity to create an app following modern development best practices (givenyour platform of choice), but also feel free to use your own app architecture preferences (coding standards, code organization, third-party libraries, etc). It’s perfectly fine to use native code or any framework or librarie.
 
 ## Scope
 **1. Infinite scroll posts screen**
@@ -11,11 +11,11 @@ Convert the following design into live code app.
 ![app preview](https://github.com/Coderockr/mobile-test/blob/master/layouts/app-preview.png?raw=true)
 
 ## Requirements
-1. You should see this challenge as an opportunity to create an app following modern development best practices (givenyour platform of choice), but also feel free to use your own app architecture preferences (coding standards, codeorganization, third-party libraries, etc). It’s perfectly fine to use native code or any framework or librarie.
+1. Convert the following design into live code app.
 2. Use this API to display posts: https://stormy-shelf-93141.herokuapp.com/ – `_page` and `_limit` query parameters are available.
 
 ## Deliverables
-The project source code and dependencies should be made available in GitHub. Here are the steps you shouldfollow:
+The project source code and dependencies should be made available in GitHub. Here are the steps you should follow:
 1. Create a public repository on GitHub (create an account if you don't have one).
 2. Create a "development" branch and commit the code to it. Do not push the code to the master branch.
 3. Create a "screenshots" sub-folder and include at least two screenshots of the app.
@@ -48,7 +48,6 @@ Use the following checklist to ensure high quality of the project.
 ### General
 - First of all, it should compile and run without errors
 - Are all requirements set above met?
-
 
 ## Submission
 1. A link to the Github repository.
