@@ -14,6 +14,7 @@ You should see this challenge as an opportunity to create an app following moder
 ## Requirements
 1. Convert the following design into live code app.
 2. Use this API to display posts: https://stormy-shelf-93141.herokuapp.com/ – `_page` and `_limit` query parameters are available.
+3. Use [Conventional Commits](https://www.conventionalcommits.org/) for commit messages throughout the development process.
 
 ## Deliverables
 The project source code and dependencies should be made available in GitHub. Here are the steps you should follow:
